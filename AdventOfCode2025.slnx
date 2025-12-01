@@ -1,1 +1,13 @@
-<Solution />
+<Solution>
+  <Folder Name="/.Repository/">
+    <File Path=".editorconfig"/>
+    <File Path=".gitattributes"/>
+    <File Path=".gitignore"/>
+    <File Path="global.json"/>
+    <File Path="LICENSE.md"/>
+    <File Path="new-day-project.ps1"/>
+    <File Path="README.md"/>
+    <File Path="restore-inputs.ps1"/>
+  </Folder>
+  <Project Path="Tests/Tests.csproj"/>
+</Solution>

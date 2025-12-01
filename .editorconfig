@@ -13,8 +13,18 @@ trim_trailing_whitespace = true
 indent_style = space
 indent_size = 4
 
-# Config for md, json and csproj files
+# Config for md
 [*.{md,json,csproj}]
+indent_style = space
+indent_size = 2
+
+# Config for json and json-like files
+[*.{json,jsonc,js,ts,jsx,tsx}]
+indent_style = space
+indent_size = 2
+
+# Config for XML files and proj file
+[*.{xml,*proj,slnx}]
 indent_style = space
 indent_size = 2
 
