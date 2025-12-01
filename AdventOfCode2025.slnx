@@ -9,5 +9,6 @@
     <File Path="README.md"/>
     <File Path="restore-inputs.ps1"/>
   </Folder>
+  <Project Path="Day01 - Secret Entrance/Day01.csproj"/>
   <Project Path="Tests/Tests.csproj"/>
 </Solution>

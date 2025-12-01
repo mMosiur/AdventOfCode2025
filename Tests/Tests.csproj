@@ -27,6 +27,7 @@
   </ItemGroup>
 
   <ItemGroup Label="TestedProjects">
+    <ProjectReference Include="..\Day01 - Secret Entrance\Day01.csproj" />
   </ItemGroup>
 
 </Project>
